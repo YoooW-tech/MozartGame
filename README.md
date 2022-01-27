@@ -3,7 +3,7 @@
 Projet de PPC 2021-2022
 M2 STL, Sorbonne Université
 
-Emilie SIAU
+Emilie SIAU &
 Yohann ROBERT
 
 ## Sujet

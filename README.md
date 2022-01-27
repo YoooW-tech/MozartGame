@@ -3,17 +3,18 @@
 Projet de PPC 2021-2022
 M2 STL, Sorbonne Université
 
-Emilie SIAU 3700323
-Yohann ROBERT 28607172
+Emilie SIAU
+Yohann ROBERT
 
 ## Sujet
 Voir le fichier `Projet.pdf`
 
 ## Exécution
-Lancer le jeu de Mozart : `sbt` puis `run X` avec X un chiffre entre 0 et 3.
+Nécessite une installation de sbt
+Lancer le jeu de Mozart : `sbt` puis `run X` avec X un chiffre entre 0 et 3. Il faut au moins 2 instances pour lancer la musique (un chef d'orchestre et un musicien).
 Lancer cela dans jusqu'à 4 terminaux différents, avec X différent pour chaque.
 
-## Réponses aux questions du projet
+## Réponses aux questions
 
 ### Schéma
 Voir le fichier `Schema_Acteurs.svg`

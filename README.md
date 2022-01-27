@@ -1,4 +1,4 @@
-# PPC_Mozart_game
+# Mozart_game
 
 Projet de PPC 2021-2022
 M2 STL, Sorbonne Université
